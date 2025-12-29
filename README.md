@@ -61,7 +61,7 @@ Records 3 episodes of the best model (Phase 8) and generates submission files.
 
 1. Upload `BipedalWalker_Implementation.ipynb` to [Google Colab](https://colab.research.google.com/)
 2. Enable GPU: Runtime → Change runtime type → GPU
-3. Run all cells (takes ~5-6 hours total on T4 GPU)
+3. Run all cells (takes ~5-6 hours total on A100 GPU)
 4. Download outputs: video, training info, plots, and saved models
 
 ---
